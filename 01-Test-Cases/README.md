@@ -12,3 +12,5 @@ Esta carpeta contiene los casos de prueba funcionales del Sistema Web de Gestió
 - Gestión de Disponibilidad
 - Reserva de Turnos
 - Gestión de Permisos
+
+Cada módulo contará con su propio documento de casos de prueba.
