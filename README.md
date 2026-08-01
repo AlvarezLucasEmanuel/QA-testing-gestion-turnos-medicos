@@ -45,4 +45,4 @@ El objetivo del proyecto es demostrar conocimientos en planificación, diseño, 
 
 ## Autor
 
-Lucas Emanuel Álvarez
+Lucas Emanuel Alvarez
