@@ -38,7 +38,6 @@ El objetivo del proyecto es demostrar conocimientos en planificación, diseño, 
 - Git
 - GitHub
 - Markdown
-- Jira (conceptos básicos)
 - MySQL
 
 ---
