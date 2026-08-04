@@ -1,10 +1,15 @@
-# 🧪 QA Manual Portfolio – Sistema de Gestión de Turnos Médicos
+# 🧪 QA Manual Portfolio – Sistema Web de Gestión de Turnos Médicos
 
 ## 📌 Descripción
 
 Este repositorio contiene la documentación de pruebas funcionales elaborada como proyecto personal de **QA Manual**, basada en un sistema de gestión de turnos médicos.
 
 El objetivo fue aplicar buenas prácticas de testing manual, documentando cada etapa del proceso de pruebas de manera organizada y profesional.
+
+---
+##  Objetivos del Proyecto
+
+Este proyecto fue desarrollado con fines educativos para demostrar conocimientos de QA Manual, documentación de pruebas y gestión de calidad del software.
 
 ---
 
@@ -75,7 +80,7 @@ Se creó un Plan de Pruebas que define:
 
 ---
 
-# 🛠 Herramientas Utilizadas
+# 🛠 Tecnologías Utilizadas
 
 - Microsoft Excel
 - Visual Studio Code
