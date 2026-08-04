@@ -1,47 +1,140 @@
-# QA Testing Portfolio - Sistema de Gestión de Turnos Médicos
+# 🧪 QA Manual Portfolio – Sistema de Gestión de Turnos Médicos
 
-## Descripción
+## 📌 Descripción
 
-Este repositorio contiene la documentación de testing manual desarrollada para un Sistema Web de Gestión de Turnos Médicos como parte de un proyecto académico de la Tecnicatura en Análisis de Sistemas.
+Este repositorio contiene la documentación de pruebas funcionales elaborada como proyecto personal de **QA Manual**, basada en un sistema de gestión de turnos médicos.
 
-El objetivo del proyecto es demostrar conocimientos en planificación, diseño, documentación y organización de pruebas funcionales siguiendo buenas prácticas de Quality Assurance (QA).
-
----
-
-## Objetivos
-
-- Diseñar casos de prueba funcionales.
-- Documentar incidencias (Bug Reports).
-- Elaborar Checklists de Smoke y Regression Testing.
-- Mantener una Matriz de Trazabilidad (RTM).
-- Organizar evidencias de ejecución.
+El objetivo fue aplicar buenas prácticas de testing manual, documentando cada etapa del proceso de pruebas de manera organizada y profesional.
 
 ---
 
-## Estructura del proyecto
+# 📂 Contenido del Repositorio
 
-01-Test-Cases → Casos de prueba funcionales
+## 📑 Casos de Prueba
 
-02-Bug-Reports → Reportes de errores encontrados
+Se diseñaron casos de prueba funcionales para los siguientes módulos:
 
-03-Checklists → Listas de verificación
+- Login
+- Pacientes
+- Turnos
 
-04-RTM → Matriz de trazabilidad
+Cada caso de prueba incluye:
 
-05-Evidence → Evidencias de ejecución
+- ID
+- Requisito Funcional asociado
+- Precondiciones
+- Pasos de ejecución
+- Resultado esperado
+- Prioridad
+- Estado
 
 ---
 
-## Herramientas utilizadas
+## 🐞 Reportes de Bugs
+
+Se documentaron reportes de defectos simulados utilizando un formato profesional similar al empleado en herramientas como Jira.
+
+Cada reporte incluye:
+
+- ID
+- Prioridad
+- Severidad
+- Pasos para reproducir
+- Resultado esperado
+- Resultado obtenido
+- Impacto
+
+---
+
+## ✅ Checklists
+
+Se desarrollaron checklists funcionales para verificar rápidamente las funcionalidades críticas de los módulos:
+
+- Login
+- Turnos
+
+---
+
+## 📋 Matriz de Trazabilidad (RTM)
+
+Se elaboró una matriz de trazabilidad relacionando los Requisitos Funcionales con sus respectivos Casos de Prueba.
+
+---
+
+## 📄 Test Plan
+
+Se creó un Plan de Pruebas que define:
+
+- Objetivo
+- Alcance
+- Estrategia de pruebas
+- Ambiente
+- Criterios de entrada y salida
+- Riesgos
+- Entregables
+
+---
+
+# 🛠 Herramientas Utilizadas
 
 - Microsoft Excel
+- Visual Studio Code
 - Git
 - GitHub
 - Markdown
-- MySQL
 
 ---
 
-## Autor
+# 📚 Habilidades Demostradas
 
-Lucas Emanuel Alvarez
+- Diseño de Casos de Prueba
+- Testing Funcional
+- Análisis de Requisitos
+- Matriz de Trazabilidad (RTM)
+- Reporte de Bugs
+- Elaboración de Checklists
+- Planificación de Pruebas
+- Documentación Técnica
+- Git y GitHub
+
+---
+
+# 📁 Estructura del Proyecto
+
+```text
+QA-Testing-Portfolio
+│
+├── 01-Test-Cases
+│   ├── Login_Test_Cases.xlsx
+│   ├── Pacientes_Test_Cases.xlsx
+│   └── Turnos_Test_Cases.xlsx
+│
+├── 02-Bug-Reports
+│   └── Bug_Reports.md
+│
+├── 03-Checklists
+│   ├── Checklist_Login.xlsx
+│   └── Checklist_Turnos.xlsx
+│
+├── 04-RTM
+│   └── RTM.xlsx
+│
+├── 05-Test-Plan
+│   └── Test_Plan.md
+│
+└── README.md
+```
+
+---
+
+# 👨‍💻 Autor
+
+**Lucas Emanuel Álvarez**
+
+QA Manual Junior
+
+LinkedIn:
+www.linkedin.com/in/lucas-emanuel-alvarez-b8994a383
+
+GitHub:
+https://github.com/AlvarezLucasEmanuel

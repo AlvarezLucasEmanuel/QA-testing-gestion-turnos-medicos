@@ -6,11 +6,6 @@ Esta carpeta contiene los casos de prueba funcionales del Sistema Web de Gestió
 
 - Login
 - Gestión de Pacientes
-- Gestión de Obras Sociales
-- Gestión de Especialidades
-- Gestión de Médicos
-- Gestión de Disponibilidad
 - Reserva de Turnos
-- Gestión de Permisos
 
 Cada módulo contará con su propio documento de casos de prueba.
