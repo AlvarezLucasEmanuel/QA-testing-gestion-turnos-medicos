@@ -132,9 +132,21 @@ QA-Testing-Portfolio
 
 ---
 
+# Próximas mejoras
+
+Automatización con Selenium
+
+API Testing con Postman
+
+SQL
+
+Jira
+
+Pruebas Exploratorias
+
 # 👨‍💻 Autor
 
-**Lucas Emanuel Álvarez**
+**Lucas Emanuel Alvarez**
 
 QA Manual Junior
 

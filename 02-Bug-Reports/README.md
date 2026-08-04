@@ -12,5 +12,4 @@ Cada reporte incluirá:
 - Pasos para reproducir
 - Resultado esperado
 - Resultado obtenido
-- Evidencias
 - Estado
